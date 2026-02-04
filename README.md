@@ -6,7 +6,7 @@ This repository contains notes, explanations, and examples of Operating System f
 This repository contains basic Operating System programs implemented in C. These programs are part of OS laboratory practice and help in understanding process management, system calls, and CPU scheduling algorithms.
 #program include:procces management
 file management
-directory management
+directory management.
 
 
 #FCFS Scheduling – Operating Systems
